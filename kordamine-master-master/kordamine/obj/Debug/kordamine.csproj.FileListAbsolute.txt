@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\bin\Debug\kordamine.exe.config
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\bin\Debug\kordamine.exe
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\bin\Debug\kordamine.pdb
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\obj\Debug\kordamine.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\obj\Debug\kordamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\obj\Debug\kordamine.exe
+C:\Users\opilane\source\repos\Kabilov_TARpv20\kordamine-master-master\kordamine\obj\Debug\kordamine.pdb
